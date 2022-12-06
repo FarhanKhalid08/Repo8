@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T21:30:31 EST" name="Default suite" finished-at="2022-12-05T21:30:35 EST" duration-ms="3989">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T21:30:31 EST" name="Default test" finished-at="2022-12-05T21:30:35 EST" duration-ms="3989">
+      <class name="test8.Class8">
+        <test-method signature="MoE()[pri:0, instance:test8.Class8@bae7dc0]" started-at="2022-12-05T21:30:31 EST" name="MoE" finished-at="2022-12-05T21:30:35 EST" duration-ms="3961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MoE -->
+      </class> <!-- test8.Class8 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
