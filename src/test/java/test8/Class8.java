@@ -6,13 +6,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
 
 public class Class8 {
 	public static WebDriver driver;
 
-	@Test
-	public void MoE() {
+	public static void main (String[] args) {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("http://facebook.com");
